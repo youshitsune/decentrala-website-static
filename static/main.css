@@ -1,0 +1,47 @@
+body {
+	background-color: rgb(20, 20, 20);
+}
+
+.container {
+	margin: 2rem auto;
+	margin-left: 2%;
+	
+}
+
+.header {
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	font: 9rem "Monospace", sans-serif;
+	color: #24ea26;
+}
+
+main  {
+
+	color: #24ea26;
+}
+
+a {
+	text-decoration: underline;
+	color: #24ea26;
+
+}
+a:visited {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+
+main ul li {
+	font-size: 3rem;
+}
+
+main ul li:before{
+	content: ">";
+	padding-right: 5px;	
+	color: #24ea26;
+}
