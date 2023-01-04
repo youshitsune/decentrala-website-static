@@ -25,6 +25,11 @@ main  {
 	color: #24ea26;
 }
 
+#about {
+	font-size: 2rem;
+	margin-bottom: 2rem;
+}
+
 a {
 	text-decoration: none;
 	color: #24ea26;
