@@ -1,5 +1,5 @@
 body {
-	background-color: rgb(20, 20, 20);
+	background-color: rgb(0, 0, 0);
 }
 
 .container {
@@ -12,8 +12,12 @@ body {
 	display: flex;
 	justify-content: center;
 	margin: 0 auto;
-	font: 9rem "Monospace", sans-serif;
+	font: 12vw "Monospace", sans-serif;
 	color: #24ea26;
+}
+
+#d {
+	font: 18vw "Monospace", sans-serif;
 }
 
 main  {
@@ -22,7 +26,7 @@ main  {
 }
 
 a {
-	text-decoration: underline;
+	text-decoration: none;
 	color: #24ea26;
 
 }
@@ -37,7 +41,15 @@ a:hover {
 }
 
 main ul li {
-	font-size: 3rem;
+	font-size: 2rem;
+}
+
+main ul li:hover {
+	background-color: #008000;
+}
+
+main ul li:hover a {
+	color: #000000;
 }
 
 main ul li:before{
