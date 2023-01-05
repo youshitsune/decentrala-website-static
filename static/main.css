@@ -5,7 +5,8 @@ body {
 
 .container {
 	margin: 2rem auto;
-	margin-left: 2%;
+	margin-left: 2vw;
+	margin-right: 1vw;
 }
 
 .header {
@@ -17,7 +18,11 @@ body {
 }
 
 #d {
-	font: 18vw "Monospace", sans-serif;
+	float: right;
+	margin-right: 6vw;
+	margin-left: 1vw;
+	margin-bottom: 2vw;
+	background-color: #24ea26;
 }
 
 main  {
