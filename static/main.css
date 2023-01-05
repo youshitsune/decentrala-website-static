@@ -69,7 +69,7 @@ main ul li:before {
 }
 
 .back ul li {
-	float: right;
+	text-align: right;
 }
 
 .back ul li:before {
