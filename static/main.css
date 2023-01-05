@@ -6,7 +6,6 @@ body {
 .container {
 	margin: 2rem auto;
 	margin-left: 2%;
-	
 }
 
 .header {
@@ -63,8 +62,18 @@ main ul li:hover a {
 	color: #000000;
 }
 
-main ul li:before{
+main ul li:before {
 	content: ">";
+	padding-right: 5px;	
+	color: #24ea26;
+}
+
+.back ul li {
+	float: right;
+}
+
+.back ul li:before {
+	content: "<";
 	padding-right: 5px;	
 	color: #24ea26;
 }
