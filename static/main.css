@@ -1,5 +1,6 @@
 body {
 	background-color: rgb(0, 0, 0);
+	font: 3vw "Monospace", sans-serif;
 }
 
 .container {
@@ -21,12 +22,14 @@ body {
 }
 
 main  {
-
 	color: #24ea26;
 }
 
+main h2 {
+	font-size: 5vw;
+}
+
 #about {
-	font-size: 2rem;
 	margin-bottom: 2rem;
 }
 
@@ -35,18 +38,21 @@ a {
 	color: #24ea26;
 
 }
+
 a:visited {
 	text-decoration: none;
 }
+
 a:active {
 	text-decoration: none;
 }
+
 a:hover {
 	text-decoration: none;
 }
 
 main ul li {
-	font-size: 2rem;
+	font-size: 3vw;
 }
 
 main ul li:hover {
