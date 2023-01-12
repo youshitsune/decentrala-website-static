@@ -13,6 +13,7 @@
   src: url(fonts/jetbrains-mono/JetBrainsMono-Regular.ttf);
 }
 
+
 body {
 	background-color: rgb(0, 0, 0);
 	font-family: jetbrains-mono;
@@ -49,6 +50,14 @@ main  {
 main h2 {
 	font-family: sligoil;
 	font-size: 5vw;
+}
+
+main h3 {
+	font-family: sligoil;
+	font-size: 4vw;
+	margin: 2rem auto;
+	margin-left: 2vw;
+	margin-right: 1vw;
 }
 
 #about {
@@ -94,10 +103,22 @@ main ul li:before {
 
 .back ul li {
 	text-align: right;
+	clear: both;
 }
 
 .back ul li:before {
 	content: "<";
 	padding-right: 5px;	
 	color: #24ea26;
+}
+
+#saznajvise p {
+	font-size: 2vw;
+}
+
+.box {
+	float: left;
+	width: 25vw;
+	text-align: center;
+	padding: 1vw;
 }
