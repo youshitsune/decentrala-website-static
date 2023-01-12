@@ -1,6 +1,22 @@
+@font-face {
+  font-family: Facade;
+  src: url(fonts/facade/Facade-Sud.woff);
+}
+
+@font-face {
+  font-family: sligoil;
+  src: url(fonts/sligoil/Sligoil-Micro.woff);
+}
+
+@font-face {
+  font-family: jetbrains-mono;
+  src: url(fonts/jetbrains-mono/JetBrainsMono-Regular.ttf);
+}
+
 body {
 	background-color: rgb(0, 0, 0);
-	font: 3vw "Monospace", sans-serif;
+	font-family: jetbrains-mono;
+	font-size: 3vw;
 }
 
 .container {
@@ -13,7 +29,8 @@ body {
 	display: flex;
 	justify-content: center;
 	margin: 0 auto;
-	font: 12vw "Monospace", sans-serif;
+	font-family: facade;
+	font-size: 12vw;
 	color: #24ea26;
 }
 
@@ -30,6 +47,7 @@ main  {
 }
 
 main h2 {
+	font-family: sligoil;
 	font-size: 5vw;
 }
 
@@ -38,6 +56,7 @@ main h2 {
 }
 
 a {
+	font-family: sligoil;
 	text-decoration: underline;
 	color: #24ea26;
 
