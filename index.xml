@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Decentrala</title>
+    <link>https://dmz.rs/</link>
+    <description>Recent content on Decentrala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://dmz.rs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://dmz.rs/chat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmz.rs/chat/</guid>
+      <description>Chat Za koriscenje XMPP (Jabber) mozete koristiti Gajim na racunaru , Conversations na Andoroid-u (ne pravite nalog na conversations.im serveru, mozete na dmz.rs ili nekom drugom) i Monal na Apple proizvodima.
+Mozete nas naci u XMPP grupi decentrala@conference.dmz.rs</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dmz.rs/dogadjaji/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmz.rs/dogadjaji/</guid>
+      <description>Dogadjaji Ponedeljak (5. Jun) u 19h u DC Krovu, Sifre (predavanje) Utorak (6. Jun) u 19h u DC Krovu, Genersianje random podataka (predavanje) Ponedeljak (12. Jun) u 19h u DC Krovu, Uvod u Blender, 3D modelovanje (radionica) Utorak (13. Jun) u 19h u DC Krovu, Cybersecurity odbrana (predavanje) Ponedeljak (19. Jun) u 19h u DC Krovu, BASH skripte (predavanje) Utorak (20. Jun) u 19h u DC Krovu, Cybersecurity odbrana (predavanje) Ponedeljak (26.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dmz.rs/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmz.rs/kontakt/</guid>
+      <description>Kontakt Mozete nam poslati email na dmz@dmz.rs Ili nas kontaktiraje na forumu ili chat kanalu Takodje mozete i doci na neku od dogadjaja i upoznati nas uzivo</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dmz.rs/nalog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmz.rs/nalog/</guid>
+      <description>Nalog Ako ste napravili nalog na dmz.rs mozete koristi nas xmpp i email server.
+Za vise o XMPP pogledajte Chat stranicu.
+Za primer podesavanja na Thundebird mail klijentu. Registruj se Izbrisi nalog Promeni lozinku </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dmz.rs/onama/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmz.rs/onama/</guid>
+      <description>Sta je Decentrala Decentrala je zajednica okupljena oko decentralizacije tehnologija i sirenja znanja.
+Znanje Svako moze drzati predavanje na bilo koju temu, samo se najavite na forumu.
+Decentrala veruje da svako treba da ima pristup znanju, zbog cega su predavanja uvek besplatna i bez promocija.
+Ako zelite nesto da podelite sa drugima sto ste naucili, prijavite se da drzite jedno ili vise predavanja!
+Akcija Organizovanje dogadjaja programiranja ili instalacije servisa koje pomazu u decentralizaciji Interneta.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dmz.rs/servisi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmz.rs/servisi/</guid>
+      <description>Servisi FORUM XMPP GITEA WIKI EMAIL SOFT SERVE LibreX CGIT </description>
+    </item>
+    
+  </channel>
+</rss>
